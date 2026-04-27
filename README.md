@@ -10,9 +10,7 @@ Building enterprise systems with .NET. Specialized in microservices, event-drive
 
 ## Open Source
 
-**[DotEmilu](https://github.com/renzojared/DotEmilu)** [![NuGet](https://img.shields.io/nuget/v/DotEmilu?style=flat-square&logo=nuget&color=004880)](https://www.nuget.org/packages/DotEmilu) - .NET library for handling HTTP requests/responses using handler-based patterns and Clean Architecture.
-
-**[DotEmilu.EntityFrameworkCore](https://github.com/renzojared/DotEmilu.EntityFrameworkCore)** [![NuGet](https://img.shields.io/nuget/v/DotEmilu.EntityFrameworkCore?style=flat-square&logo=nuget&color=004880)](https://www.nuget.org/packages/DotEmilu.EntityFrameworkCore) - EF Core interceptors and auditable entities with soft delete support.
+**[DotEmilu](https://github.com/renzojared/DotEmilu)** [![NuGet](https://img.shields.io/nuget/v/DotEmilu?style=flat-square&logo=nuget&color=004880)](https://www.nuget.org/packages/DotEmilu) - .NET library ecosystem (4 packages) for building use-case-driven applications with validation-first handler pipelines, ASP.NET Core integration, and Entity Framework Core utilities. Includes auditable entities and soft delete support.
 
 **[MCP PoC Collection](https://github.com/renzojared/mcp-poc)** [![GHCR](https://img.shields.io/badge/ghcr-mcp--invoice--sync-blue?logo=docker)](https://github.com/renzojared/mcp-poc/pkgs/container/mcp-invoice-sync) - Model Context Protocol server implementations using Docker for AI-powered integrations.
 
