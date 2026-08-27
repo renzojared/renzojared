@@ -4,9 +4,9 @@
 [![](https://img.shields.io/badge/-Renzo%20Jared-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/renzojared)
 [![](https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/renzojared)
 
-**Backend Developer .NET | Software Architecture Specialist**
+**Senior Backend Developer .NET | Cloud & DevOps Specialist | Software Architecture**
 
-Building enterprise systems with .NET. Specialized in microservices, event-driven architectures, and database optimization.
+Building enterprise systems with .NET. Specialized in serverless & event-driven architectures, Infrastructure as Code (Terraform), CI/CD pipelines in Azure DevOps, and cloud solutions on Azure and AWS.
 
 ## Open Source
 
@@ -22,18 +22,18 @@ Building enterprise systems with .NET. Specialized in microservices, event-drive
 
 ## Tech Stack
 
-**Backend**: .NET 10/8/6, C#, ASP.NET Core (Minimal APIs & Controllers), Worker Services
+**Backend**: .NET 10 (Native AOT)/8/6, C#, ASP.NET Core (Minimal APIs & Controllers), Worker Services
 
-**Architecture**: Clean Architecture, Vertical Slice Architecture, Microservices, CQRS, Event-Driven Architecture, DDD
+**Architecture**: Serverless Architecture, Vertical Slice Architecture, Microservices, CQRS, Event-Driven Architecture, DDD, Clean Architecture
 
-**Data Access**: Entity Framework Core, Dapper, Oracle Database, SQL Server, PostgreSQL, MySQL, Redis
+**Data Access**: Amazon DynamoDB (Streams), Entity Framework Core, Dapper, SQL Server, PostgreSQL, MySQL, Oracle Database, Redis
 
-**Messaging & Events**: Apache Kafka, Confluent.Kafka
+**Messaging & Events**: Apache Kafka, Confluent.Kafka, Amazon SQS/DLQ
 
-**Cloud & DevOps**: Azure (VMs, Key Vault, Blob Storage, Functions), AWS (EC2, S3, Lambda, RDS), Docker, GitHub Actions, IIS
+**Cloud & DevOps**: Azure (VMs, Key Vault, Blob Storage, Functions, SQL Database), AWS (ECS Fargate, Lambda, SQS, DynamoDB, API Gateway, Secrets Manager, CloudWatch, Cognito), Terraform (IaC), Azure DevOps (YAML Pipelines), Docker, GitHub Actions, IIS
 
-**Observability**: OpenTelemetry, Serilog, Polly, Health Checks, Seq
+**Observability**: OpenTelemetry (Jaeger/Prometheus/Grafana), Amazon CloudWatch Alarms, Serilog, Polly, Health Checks, Seq
 
-**Tools & Libraries**: FluentValidation, Hangfire, AutoMapper, YARP, Swagger/OpenAPI, NuGet Package Development, Spectre.Console
+**Tools & Libraries**: IBM API Connect (v12), FluentValidation, Hangfire, AutoMapper, YARP, Swagger/OpenAPI, NuGet Package Development, Spectre.Console
 
 **Frontend**: Blazor (WebAssembly/Server), MudBlazor, JavaScript, HTML5/CSS3
